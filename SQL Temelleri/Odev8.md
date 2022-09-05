@@ -91,3 +91,4 @@ WHERE id = 4;
 DELETE FROM employee
 WHERE id IN(23, 24, 25, 26, 27);
 ```
+`SELECT * FROM employee;`
